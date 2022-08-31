@@ -10,7 +10,10 @@ J'ai choisi ce programme parce que :
 
   * j'aime la programmation
   * les effets speciauxla réalité virtuelle
-  * creer des sites web dynamiques
+  * créer des sites web dynamiques
+
+De plus, j'ai fait un dep en soutien informatique ce qui ma permis d'explorer plusieurs sections du multimédia. Par exemple, j'ai du realiser un **court-métrage**, créer des musique ainsi qu'éditer des photo a l'aide de photoshop.
+
 
 [Ce tutoriel](https://guides.github.com/features/mastering-markdown/) vous aidera à avoir la bonne syntaxe lorsque vous écrirez dans votre journal. Vous pouvez aussi vous référez à [cette *cheatsheet*](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md). 
 
