@@ -9,15 +9,15 @@ L'oeuvre *Bulle* m'interpelle beaucoup puisque c'est une oeuvre interactive qui 
 ### [Alsos](http://www.scenocosme.com/alsos.htm)
 Expliquer pourquoi vous avez choisi ce lien. 
 
-### Lien 2 
+### [Lights contacts](http://www.scenocosme.com/contacts_installation.htm)
 Expliquer pourquoi vous avez choisi ce lien.
 
-### Lien 3 
+### [BLABDROID](http://www.benhoguet.com/hall-of-fame/blabdroid/) 
 Expliquer pourquoi vous avez choisi ce lien.  
 
-### Lien 4 
+### [J'aime les patates](http://jaimelespatates.onf.ca/) 
 Expliquer pourquoi vous avez choisi ce lien. 
 
-### Lien 5 
+### [The dancing traffic light](https://www.journal-du-design.fr/pop-culture/the-dancing-traffic-light-smart-49878/) 
 Expliquer pourquoi vous avez choisi ce lien. 
 
