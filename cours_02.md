@@ -13,11 +13,11 @@ L'oeuvre *Alsos* m'interpelle puisque que je trouve cette exposition magnifique.
 L'oeuvre *Lights contacts* m'interpelle puisque cette expostion transforme le corps des specateurs en instrument de musique et je trouve cela fascinant.
 
 ### [BLABDROID](http://www.benhoguet.com/hall-of-fame/blabdroid/) 
-L'oeuvre *Lights contacts* m'interpelle puisque 
+L'oeuvre *Lights contacts* m'interpelle puisque leur objectif serait de créer le premier film tourné et réalisé par des robots.
 
 ### [J'aime les patates](http://jaimelespatates.onf.ca/) 
-Expliquer pourquoi vous avez choisi ce lien. 
+L'oeuvre *J'aime les patates* m'interpelle puisque celle-ci est un jeu vidéo.De plus elle a gagner un prix en 2015.
 
 ### [The dancing traffic light](https://www.journal-du-design.fr/pop-culture/the-dancing-traffic-light-smart-49878/) 
-Expliquer pourquoi vous avez choisi ce lien. 
+L'oeuvre *The dancing traffic light* m'interpelle puisque je trouve cela intéressant comment ils ont réussi a réaliser ce projet.
 
