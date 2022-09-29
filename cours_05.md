@@ -4,8 +4,13 @@
 ### Points forts
 Nommer deux points forts de votre présentation. 
 
+Le powerpoint contenait beaucoup d'information.
+respect des consgines
+
 ### Points à améliorer
-Nommer deux points à améliorer de votre présentation et expliquer comment vous allez les travailler pour les prochaines présentations. 
+
+parler moins rapidement et prendre plus mon temps
+
 
 ### Présentation préférée
 Quelle présentation avez-vous préféré et pourquoi? 
