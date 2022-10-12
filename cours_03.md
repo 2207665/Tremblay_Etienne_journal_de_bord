@@ -2,19 +2,31 @@
 ## Plan de présentation
 
 ### Présentation
-Parlez de vous. 
+je m'appelle Etienne Tremblay.
+Je suis en Tremplin DEC
+DEP en informatique
+2 session au Collège Montmorency
+Technique de l’informatique
 
 ### Intérêts dans le domaine
-Parlez de vos intérêts en multimédia. 
+Création numérique.
+Design et développement de site web.
+Programmation.
+Montage vidéo. 
+Réalité virtuelle.
+Réalité augmentée.
 
 ### Emplois qui vous intéressent
-Nommez deux emplois.
+Webmestre
+Programmeur
 
 ### Identification
-Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
+l'entreprise Ubisoft 
 
 ### Dans 5 ans
-Où vous voyez-vous dans 5 ans? 
+Sur le marcher du travaille.
+Employer en multimédia dans le domaine de la programmation ou en développement de site web.
+Réaliser des projets en lien au multimédia et l’informatique
 
 ### Projets
-Expliquez un ou des projets que vous aimeriez faire. 
+project personnel : Apeiros
