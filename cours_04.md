@@ -3,8 +3,7 @@
 Choisissez des emplois qui pourraient vous intéresser. 
 
 ### Emploi 1 - Designer graphique
-Écrire 4 à 5 lignes. Parler des tâches reliées à l'emploi. Expliquer où ces personnes travaillent. Décrire les qualités requises pour pratiquer ce métier. Un point qui vous intéresse dans ce métier. Un point qui rend ce métier moins intéressant pour vous.  
-
+les taches d'un Designer graphique consiste a 
 ### Emploi 2 - Webmestre
 4 à 5 lignes
 
@@ -18,3 +17,4 @@ Choisissez des emplois qui pourraient vous intéresser.
 4 à 5 lignes
 
 
+Écrire 4 à 5 lignes. Parler des tâches reliées à l'emploi. Expliquer où ces personnes travaillent. Décrire les qualités requises pour pratiquer ce métier. Un point qui vous intéresse dans ce métier. Un point qui rend ce métier moins intéressant pour vous.  
