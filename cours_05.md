@@ -5,14 +5,17 @@
 Nommer deux points forts de votre présentation. 
 
 Le powerpoint contenait beaucoup d'information.
-respect des consgines
+
+le respect des consignes.
 
 ### Points à améliorer
 
-parler moins rapidement et prendre plus mon temps
+parler moins rapidement. 
+
+prendre plus mon temps
 
 
 ### Présentation préférée
 Quelle présentation avez-vous préféré et pourquoi? 
 
-Selon moi, la meilleur presentation est celle de Raphaël Goovaerts ,car j'ai aimer son projet de jeux videos qu'il est en train de créer 
+Selon moi, la meilleur presentation est celle de Raphaël Goovaerts car j'ai aimer son projet de jeux videos qu'il est en train de créer 
